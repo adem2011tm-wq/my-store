@@ -1,1 +1,1 @@
-# my-store
+# index.html
